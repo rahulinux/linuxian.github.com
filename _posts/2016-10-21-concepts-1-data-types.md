@@ -1,3 +1,14 @@
+---
+ID: 1575
+post_title: 'Concepts 1 &#8211; Data Types'
+author: Rahul Patil
+post_date: 2016-10-21 15:55:27
+post_excerpt: ""
+layout: post
+permalink: >
+  http://linuxian.com/2016/10/21/concepts-1-data-types/
+published: true
+---
 Concepts 1 - Data Types
 
 
